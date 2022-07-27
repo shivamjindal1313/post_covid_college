@@ -1,0 +1,28 @@
+.image {
+  background-image: url("../../assets/thapar.jpeg");
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  color: white;
+  background-color: rgb(157, 104, 104);
+}
+.infoo {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  color: white;
+  background-color: rgb(157, 104, 104);
+  margin-top: 14%;
+  margin-left: 75%;
+}
+.btnn {
+  margin-left: 15%;
+}
